@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Video Call Yuk 😘</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #e5ddd5;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .container {
+      background-color: #ffffff;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      text-align: center;
+      padding: 20px;
+      max-width: 400px;
+    }
+    img {
+      width: 100%;
+      border-radius: 15px;
+    }
+    h1 {
+      color: #075e54;
+    }
+    p {
+      margin-top: 10px;
+      font-size: 16px;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background-color: #25d366;
+      color: white;
+      border-radius: 25px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a.button:hover {
+      background-color: #128c7e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://i.imgur.com/glmlXnp.jpeg" alt="Video Call">
+    <h1>Video Call Yuk 😘</h1>
+    <p>Klik tombol di bawah ini untuk mulai video call via WhatsApp</p>
+    <a class="button" href="https://wa.me/6281276119xxx?text=VCX%20Dear%20call%20via%20video%20😘" target="_blank">Chat WhatsApp Sekarang</a>
+  </div>
+</body>
+</html>
