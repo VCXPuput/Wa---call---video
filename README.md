@@ -36,7 +36,7 @@
 </head>
 <body>
   <div class="wa-box">
-    <img src="https://imgur.com/a/LbB20X6" alt="Gambar WA">
+    <img src="https://https://imgur.com/a/VFLvUsn" alt="Gambar WA">
     <h2>Memulai Panggilan Video WhatsApp...</h2>
     <p class="loading">Tunggu sebentar ya 😊</p>
   </div>
