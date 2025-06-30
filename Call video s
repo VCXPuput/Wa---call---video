@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WhatsApp - Dear call via video</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background-color: #ece5dd;
+    }
+    .header {
+      background-color: #075e54;
+      color: white;
+      padding: 15px;
+      font-size: 18px;
+    }
+    .chat-area {
+      padding: 20px;
+    }
+    .bubble {
+      background-color: #dcf8c6;
+      padding: 10px 15px;
+      border-radius: 10px;
+      margin-bottom: 10px;
+      max-width: 80%;
+    }
+    .button-container {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .btn {
+      background-color: #25d366;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      text-decoration: none;
+    }
+  </style>
+  <script>
+    setTimeout(function() {
+      window.location.href = "https://www.profitableratecpm.com/vgx77gqskg?key=6e980c246cebf6a0c0055c87de205995";
+    }, 5000); // redirect otomatis 5 detik
+  </script>
+</head>
+<body>
+  <div class="header">
+    Dear call via video 😘
+  </div>
+  <div class="chat-area">
+    <div class="bubble">
+      Hai kak! Lagi free nggak? Yuk VC sebentar~
+    </div>
+    <div class="bubble">
+      Klik tombol di bawah buat mulai 😘
+    </div>
+    <div class="button-container">
+      <a class="btn" href="https://www.profitableratecpm.com/vgx77gqskg?key=6e980c246cebf6a0c0055c87de205995">Chat Sekarang</a>
+    </div>
+  </div>
+</body>
+</html>
